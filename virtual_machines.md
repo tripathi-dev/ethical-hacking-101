@@ -1,4 +1,3 @@
-````markdown
 # Virtual Machines (VMs) and VirtualBox – Detailed Notes
 
 # 1. Introduction to Virtual Machines (VMs)
